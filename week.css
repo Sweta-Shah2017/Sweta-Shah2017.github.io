@@ -1,0 +1,53 @@
+body{
+  background-color:#fff;
+}
+.image img{
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  border:2px solid gray;
+margin-top:100px;}
+.image img:hover{
+  box-shadow:0 1px 5px 4px blue;
+}
+h1{ font-size:25px;
+font-family:inherit;
+color:black;
+font-weight:bold;
+text-transform:uppercase;
+}
+h1:hover{ color:red;}
+p{ color:gr;
+  font-size:15px;
+  font-family:fantasy;
+}
+.icon{
+padding-right:20px;}
+
+.icon:hover{color:blue;}
+
+.nav ul{
+
+background-color: ed;
+float:center;
+margin:12px;
+left:100px;
+list-style:none;
+}
+
+ .nav ul li
+{
+margin-right:10px;
+display:block;
+front-weight:bold;
+color:blue
+front-size:30px;
+backgroud-color:blue;
+width:120px;
+text-align:center;
+padding:10px;
+text-transform:uppercase;
+border:1px solid blue;
+font-family:cursive;
+float:center;
+}
