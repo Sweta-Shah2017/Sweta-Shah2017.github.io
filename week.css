@@ -37,15 +37,15 @@ list-style:none;
 
  .nav ul li
 {
-margin-right:10px;
+margin-right:200px;
 display:block;
 front-weight:bold;
-color:blue
+color:blue;
 front-size:30px;
 backgroud-color:blue;
-width:120px;
+width:150px;
 text-align:center;
-padding:10px;
+padding:16px;
 text-transform:uppercase;
 border:1px solid blue;
 font-family:cursive;
